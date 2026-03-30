@@ -220,6 +220,7 @@ select {
 .section-copy,
 .section-body > p {
   color: var(--text-soft);
+  margin: 0 0 0.75rem 0;
 }
 
 .token-groups {
@@ -227,6 +228,7 @@ select {
   flex-wrap: wrap;
   gap: 1.5rem;
   align-items: center;
+  margin-bottom: 0.75rem;
 }
 
 .token-group {
@@ -323,6 +325,7 @@ select {
   background: var(--panel-2);
   border: 1px solid var(--border-soft);
   border-radius: 0.9rem;
+  margin-bottom: 0.75rem;
 }
 
 .board {
@@ -392,6 +395,7 @@ select {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .score-card {
@@ -438,6 +442,7 @@ select {
   border: 1px solid var(--border);
   border-radius: 0.95rem;
   padding: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .math-row {
