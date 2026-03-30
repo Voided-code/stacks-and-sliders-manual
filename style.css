@@ -213,8 +213,7 @@ select {
 }
 
 .section-body p,
-.section-body li,
-.section-body span {
+.section-body li {
   font-size: clamp(1rem, 1.4vw, 1.08rem);
 }
 
@@ -477,7 +476,7 @@ select {
   color: var(--gold);
   font-size: clamp(1.8rem, 3vw, 2.2rem);
   font-weight: 700;
-  line-height: 1;
+  line-height: 1.25;
   padding-top: 0.1rem;
 }
 
