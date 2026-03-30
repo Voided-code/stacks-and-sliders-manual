@@ -83,6 +83,11 @@ select {
   letter-spacing: -0.04em;
 }
 
+.h1-sub {
+  font-size: 0.65em;
+  opacity: 0.85;
+}
+
 .hero-copy p {
   margin: 1rem 0 0;
   max-width: 34rem;
