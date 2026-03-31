@@ -663,13 +663,11 @@ select {
   .score-card {
     transition: none;
   }
-<<<<<<< HEAD
 }
 
-.page {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-=======
->>>>>>> parent of 6fa995c (feat: vertically centred)
+@media (min-width: 1400px) {
+  .page 
+  { 
+    display: flex; flex-direction: column; justify-content: center; 
+  } 
 }
