@@ -94,7 +94,7 @@ select {
   text-align: left;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 48rem) {
   .h1-sub {
     text-align: center;
   }
