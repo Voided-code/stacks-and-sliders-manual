@@ -557,7 +557,7 @@ select {
   }
 
   .hero-stacks {
-    top: 3rem;
+    top: 2rem;
     right: 1rem;
   }
 
@@ -641,7 +641,7 @@ select {
   }
 
   .hero-stacks {
-    margin-top: 8rem;
+    margin-top: 0;
   }
 }
 
