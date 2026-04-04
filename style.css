@@ -284,6 +284,14 @@ select {
   font-weight: 600;
 }
 
+.token-label-black {
+  color: #646464;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
 .steps {
   list-style: none;
   margin: 0;
