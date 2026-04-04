@@ -537,6 +537,10 @@ select {
   .score-grid {
     grid-template-columns: 1fr;
   }
+
+  .stack-area {
+    height: auto;
+  }
 }
 
 @media (max-width: 640px) {
